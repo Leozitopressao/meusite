@@ -49,7 +49,7 @@ const Header = () => {
                   className='m-auto p-8'
                 />
 <h1 className="mb-10 text-xl text-center font-extrabold text-white md:text-2xl lg:text-2xl"><span className="text-transparent bg-gradient-to-r from-amber-500 via-amber-300 to-amber-500 bg-clip-text">Me siga!</span> E vamos negociar</h1>
-                <section className='flex justify-center items-center space-x-4  my-10'>
+                <section className='flex flex-wrap justify-center items-center space-x-4  my-10'>
                   
                   <button className="text-white bg-gradient-to-r from-purple-500 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200  font-medium rounded-lg text-md px-3 py-2 text-center me-2 mb-2 flex justify-center items-center text-1xl"> <BsInstagram className='mr-3' /> <a href="https://www.instagram.com/leo_ls_photos?igsh=dThoMTRwemZvYWRo">Instagram</a></button>
                   <button className="text-white bg-gradient-to-r from-slate-900 to-slate-900 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200  font-medium rounded-lg text-md px-3 py-2 text-center me-2 mb-2 flex justify-center items-center text-1xl"> <BsThreads className='mr-3' /> <a href="https://www.threads.net/@leo_ls_photos">Threads</a></button>
